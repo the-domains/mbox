@@ -1,0 +1,14 @@
+layout_spectrum: 0.6290323
+color:
+  saturation: 0.4587814
+  lightness: 0.5967742
+  brandStrength: 0.9605735
+  brandColors:
+    - '#FFFFFF'
+    - '#009188'
+    - '#38464F'
+    - '#ACB3B8'
+    - '#EF7622'
+  rhythmicContrast: 0.6702509
+typography_spectrum: 0.797491
+name: Mbox
